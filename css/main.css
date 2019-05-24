@@ -855,10 +855,4 @@ button:focus {
 }
 
 /* end footer section */
-/* internal page */
-.internal-slide {
-  border-bottom: 5px solid var(--golden);
-  -webkit-box-shadow: 0px 0px 10px #0000007d;
-          box-shadow: 0px 0px 10px #0000007d;
-}
 /*# sourceMappingURL=main.css.map */
